@@ -18,11 +18,11 @@ The Application does the following:
 - Run ``php artisan key:generate``
 - Run ``php artisan migrate --seed`` to migrate and seed data.
 
-### Usage
+## Usage
 - Access index page (Eg: localhost/laravel-swapi/public/).
 - Click on the tasks.
 
-### Run Tests
+## Run Tests
 - Run  ```vendor/bin/phpunit tests/``` from laravel-swapi directory.
 
 
